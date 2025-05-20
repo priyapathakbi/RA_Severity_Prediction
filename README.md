@@ -48,12 +48,10 @@ To build a supervised machine learning model that can classify RA patients into 
 ### Step 4: Model Development
 
 * Models used:
-
   * Random Forest
   * XGBoost
   * Logistic Regression
   * SVM
-
 * Data split: 70% training, 30% test
 * Cross-validation: 5-fold CV
 * Hyperparameter tuning with GridSearchCV
